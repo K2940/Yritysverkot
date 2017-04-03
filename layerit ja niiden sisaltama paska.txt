@@ -1,0 +1,38 @@
+
+
+
+acces kerrokesessa cat 6-7
+serverit, käyttäjälaitteet 
+802.3ad link aggregation control protocol
+
+
+distribution layer
+-l2-tason kytkiminen
+-l3-tason kytkimet (reittitävät kytkminet)
+
+Cisco Nexus 7700 6-Slot Switch x2 . 
+port count 192 x 10 Gbps, 96 x 40 Gbps, and 48 x 100 Gbps
+MIB =  Supports SNMPv3, v2c, and v1
+network enviroment = Cisco Data Center Network Manager (DCNM) 6.2.2 or later
+
+Yleiskaapelointistandardin 
+-käytetään pääasiassa valokuituja
+–talojakamot (bd)
+-aluejakamot(cd)
+protokollat:
+-rapid spannig tree protocol
+-virtual LANs
+-vlan registtration protocol
+
+Core layer
+-ydinkerroksella yhdistetään organisaation toimipaikat toisiinsa laajaverkkoyhteyksien (wan) avulla
+-yleensä organisaation vpn-palvelimet
+laitteet:
+-reitittimiä (cisco asr 9010 router)
+-L3-tason kytkimiä
+-kaapelointina käyetään valokuituja ja sateliittiyhteyksiä
+protokollat:
+-Virtual router redundancy protocol
+-OSPFA version2
+-OSPF for ipv6
+
