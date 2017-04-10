@@ -1,4 +1,0 @@
-VPN virtual private network
-Yrityksen toimipisteiden ja etäkäyttäjien yhdistäminen turvallisesti laajakaidstaverkon(wan) kautta, jolloin palvelun toiminnallisuus, hallinta ja turvallisuus on paras mahdollinen. 
-Tietoturva vaatii autentikoinnin ja salauksen. 
-Palvelun yleinen käyttö on etäyhteydellä pääsy file sharing asemalle, joka vaatii kampus ip-osoitteen sekä tunnuksen.
